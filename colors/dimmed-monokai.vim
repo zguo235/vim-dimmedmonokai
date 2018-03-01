@@ -1,7 +1,6 @@
 " Vim color file
 " Converted from Textmate theme Dimmed - Monokai using Coloration v0.4.0 (http://github.com/sickill/coloration)
 
-" set background=dark
 highlight clear
 
 if exists("syntax_on")
