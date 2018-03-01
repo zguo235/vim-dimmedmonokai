@@ -1,6 +1,6 @@
 # vim-dimmedmonokai
 
-Dimmed monokai color scheme for Vim converted from Textmate with [coloration](http://github.com/sickill/coloration) from Textmate theme.
+Dimmed monokai color scheme for Vim converted from Textmate theme with [coloration](http://github.com/sickill/coloration).
 
 ## Installation
 
